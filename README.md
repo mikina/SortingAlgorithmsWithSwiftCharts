@@ -1,6 +1,6 @@
 # Visualize sorting in Swift Charts
 
-[![Visualize sorting in Swift Charts](thumbnail.png)](https://www.youtube.com/watch?v=UCSXF741iHI)
+[![Visualize sorting in Swift Charts](thumbnail2.png)](https://www.youtube.com/watch?v=UCSXF741iHI)
 
 This is a code from a YT tutorial on how to use Swift Charts in a little inconvenient way 🤓 
 
